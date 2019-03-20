@@ -51,6 +51,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "48B973331CDB44710015E695"
+            BuildableName = "InAppPurchaseButton.framework"
+            BlueprintName = "InAppPurchaseButton iOS"
+            ReferencedContainer = "container:InAppPurchaseButton.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
